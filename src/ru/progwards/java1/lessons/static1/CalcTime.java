@@ -1,4 +1,5 @@
 package ru.progwards.java1.lessons.static1;
+
 public class CalcTime {
     public static double distance;
     public static double speed;
