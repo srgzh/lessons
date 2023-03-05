@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99f3c736-2710-4be6-bade-93097fb709b2" name="Changes" comment="h9 - 1">
-      <change afterPath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/basics/Astronomy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/basics/Distance3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/basics/ReverseDigits.java" afterDir="false" />
+    <list default="true" id="99f3c736-2710-4be6-bade-93097fb709b2" name="Changes" comment="H11">
+      <change afterPath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/wrappers/AccuracyDoubleFloat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/wrappers/NumMetrics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/wrappers/StringConverter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678025247965</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="H10">
+      <created>1678034148826</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678034148826</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -96,6 +103,8 @@
     <MESSAGE value="h9" />
     <MESSAGE value="h8 - 1" />
     <MESSAGE value="h9 - 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="h9 - 1" />
+    <MESSAGE value="H10" />
+    <MESSAGE value="H11" />
+    <option name="LAST_COMMIT_MESSAGE" value="H11" />
   </component>
 </project>
