@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99f3c736-2710-4be6-bade-93097fb709b2" name="Changes" comment="H12 - 1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/custing/Figures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/custing/Figures.java" afterDir="false" />
-    </list>
+    <list default="true" id="99f3c736-2710-4be6-bade-93097fb709b2" name="Changes" comment="H12 - 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678217846119</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="H12 - 2">
+      <created>1678218962479</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1678218962479</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -126,6 +130,7 @@
     <MESSAGE value="H11" />
     <MESSAGE value="H11 -2" />
     <MESSAGE value="H12 - 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="H12 - 1" />
+    <MESSAGE value="H12 - 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="H12 - 2" />
   </component>
 </project>
