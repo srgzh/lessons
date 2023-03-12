@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99f3c736-2710-4be6-bade-93097fb709b2" name="Changes" comment="H13 - 1">
+    <list default="true" id="99f3c736-2710-4be6-bade-93097fb709b2" name="Changes" comment="H13 - 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/compare/Divisibility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/compare/Divisibility.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -133,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678633605932</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="H13 - 2">
+      <created>1678634225981</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1678634225981</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -148,6 +156,7 @@
     <MESSAGE value="H12 - 1" />
     <MESSAGE value="H12 - 2" />
     <MESSAGE value="H13 - 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="H13 - 1" />
+    <MESSAGE value="H13 - 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="H13 - 2" />
   </component>
 </project>
