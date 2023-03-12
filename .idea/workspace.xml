@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99f3c736-2710-4be6-bade-93097fb709b2" name="Changes" comment="H12 - 2">
-      <change afterPath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/compare/Divisibility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/compare/TriangleInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/compare/TriangleSimpleInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="99f3c736-2710-4be6-bade-93097fb709b2" name="Changes" comment="H13 - 1">
+      <change beforePath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/compare/Divisibility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/compare/Divisibility.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678219353433</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="H13 - 1">
+      <created>1678633605932</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1678633605932</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -143,6 +147,7 @@
     <MESSAGE value="H11 -2" />
     <MESSAGE value="H12 - 1" />
     <MESSAGE value="H12 - 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="H12 - 2" />
+    <MESSAGE value="H13 - 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="H13 - 1" />
   </component>
 </project>
