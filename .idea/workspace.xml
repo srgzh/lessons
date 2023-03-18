@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99f3c736-2710-4be6-bade-93097fb709b2" name="Changes" comment="H13 - 2">
+    <list default="true" id="99f3c736-2710-4be6-bade-93097fb709b2" name="Changes" comment="H14 - 1">
+      <change afterPath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/cycles/DigitCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/cycles/GoldenFibo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/cycles/NumbersRange.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/compare/Divisibility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/compare/Divisibility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/compare/TriangleSimpleInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/compare/TriangleSimpleInfo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +144,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678634225981</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="H13 - 3">
+      <created>1678634625007</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1678634625007</updated>
+    </task>
+    <task id="LOCAL-00015" summary="H13 - 4">
+      <created>1678634853365</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1678634853365</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -157,6 +174,9 @@
     <MESSAGE value="H12 - 2" />
     <MESSAGE value="H13 - 1" />
     <MESSAGE value="H13 - 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="H13 - 2" />
+    <MESSAGE value="H13 - 3" />
+    <MESSAGE value="H13 - 4" />
+    <MESSAGE value="H14 - 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="H14 - 1" />
   </component>
 </project>

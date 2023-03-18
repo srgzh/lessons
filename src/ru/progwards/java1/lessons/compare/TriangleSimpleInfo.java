@@ -18,7 +18,7 @@ public class TriangleSimpleInfo {
         else return c;
     }
     public static boolean isEquilateralTriangle(int a, int b, int c) {
-        return a == b & b == c;
+        return a == b && b == c;
     }
     public static void main(String[] args) {
         System.out.println(maxSide(2,2,3));
