@@ -1,9 +1,12 @@
 package ru.progwards.java1.lessons.classes1;
 
 public class Count {
-    int count = 0;
+    int count;
     public Count(int count) {
         this.count = count;
+    }
+    public Count() {
+
     }
     public int getCount() {
         return this.count;
