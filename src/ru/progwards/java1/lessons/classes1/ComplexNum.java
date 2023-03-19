@@ -9,7 +9,7 @@ public class ComplexNum {
     }
     public String toString() {
         String s;
-        s = Integer.toString(this.a) + Integer.toString(b) + "i";
+        s = Integer.toString(this.a) + "+" + Integer.toString(b) + "i";
         return s;
     }
     public ComplexNum add(ComplexNum num) {
@@ -35,5 +35,9 @@ public class ComplexNum {
         n.a = (this.a * num.a + this.b * num.b) / (num.a * num.a + num.b * num.b);
         n.b = (this.b * num.a - this.a * num.b) / (num.a * num.a + num.b * num.b);
         return n;
+    }
+
+    public static void main(String[] args) {
+
     }
 }

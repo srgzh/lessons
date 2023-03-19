@@ -6,14 +6,14 @@ public class Count {
         this.count = count;
     }
     public int getCount() {
-        return count;
+        return this.count;
     }
     public void inc() {
-        count++;
+        this.count++;
     }
     public boolean dec() {
-        count--;
-        if (count <= 0) return true;
+        this.count--;
+        if (this.count <= 0) return true;
         else return false;
     }
     public static void main(String[] args) {

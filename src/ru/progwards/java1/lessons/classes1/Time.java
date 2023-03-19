@@ -20,7 +20,7 @@ public class Time {
         return time;
     }
     public int toSeconds() {
-        return this.hours * 360 + this.minutes * 60 + this.seconds;
+        return this.hours * 3600 + this.minutes * 60 + this.seconds;
     }
     public int secondsBetween(Time time) {
         int seconds = 0;
@@ -29,8 +29,8 @@ public class Time {
         return seconds;
     }
     public static void main(String[] args) {
-        Time t = new Time(3,45,5);
-        Time tnew = new Time(12,45,50);
+        Time t = new Time(1, 52,55);
+        Time tnew = new Time(11, 54, 10);
         System.out.println(t.toString());
         System.out.println(t.toSeconds());
         System.out.println(t.secondsBetween(tnew));
