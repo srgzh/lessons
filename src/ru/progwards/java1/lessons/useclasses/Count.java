@@ -27,6 +27,10 @@ public class Count {
 class CountTest {
     public static void testInc(int count) {
         Count testCount = new Count();
+        if (count <= 0) {
+            System.out.println("тест inc окончен");
+            return;
+        }
         for(int i = 0; i < count; i++) {
             testCount.inc();
             System.out.print(testCount.getCount() + " ");
@@ -42,7 +46,7 @@ class CountTest {
                 break;
             }
             else System.out.print(testCount.getCount() + " ");
-        } while (testCount.getCount() > 0);
+        } while (testCount.getCount() >= 0);
         System.out.println("тест dec окончен");
     }
 
