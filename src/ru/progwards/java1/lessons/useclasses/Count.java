@@ -50,7 +50,7 @@ class CountTest {
         testInc(7);
         testInc(0);
         testInc(-1);
-        testDec(1);
+        testDec(9);
         testDec(0);
         testDec(-5);
     }
