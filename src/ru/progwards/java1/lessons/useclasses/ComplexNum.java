@@ -9,12 +9,12 @@ public class ComplexNum {
     }
     public String toString() {
         String s;
-        if (this.b >= 0) {
+//        if (this.b >= 0) {
             s = Integer.toString(this.a) + "+" + Integer.toString(this.b) + "i";
-        }
-        else {
-            s = Integer.toString(this.a) + Integer.toString(this.b) + "i";
-        }
+//        }
+//        else {
+//            s = Integer.toString(this.a) + Integer.toString(this.b) + "i";
+//        }
         return s;
     }
     public ComplexNum add(ComplexNum num) {

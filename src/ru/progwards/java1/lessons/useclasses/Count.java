@@ -35,13 +35,14 @@ class CountTest {
     }
     public static void testDec(int count) {
         Count testCount = new Count(count);
-        while (true) {
-            System.out.print(testCount.getCount() + " ");
+        do {
             if (testCount.dec()) {
+                System.out.print(testCount.getCount() + " ");
                 System.out.println("\ncount равен 0");
                 break;
             }
-        }
+            else System.out.print(testCount.getCount() + " ");
+        } while (testCount.getCount() > 0);
         System.out.println("тест dec окончен");
     }
 
@@ -49,7 +50,7 @@ class CountTest {
         testInc(7);
         testInc(0);
         testInc(-1);
-        testDec(9);
+        testDec(1);
         testDec(0);
         testDec(-5);
     }
