@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99f3c736-2710-4be6-bade-93097fb709b2" name="Changes" comment="H16 - 3" />
+    <list default="true" id="99f3c736-2710-4be6-bade-93097fb709b2" name="Changes" comment="H16 - 4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -208,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679740565399</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="H16 - 4">
+      <created>1679741119458</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1679741119458</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -234,7 +241,8 @@
     <MESSAGE value="H16 - 1" />
     <MESSAGE value="H16 - 2" />
     <MESSAGE value="H16 - 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="H16 - 3" />
+    <MESSAGE value="H16 - 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="H16 - 4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -246,7 +254,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ru/progwards/java1/lessons/useclasses/Count.java</url>
-          <line>52</line>
+          <line>56</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
