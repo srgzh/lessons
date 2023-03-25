@@ -42,11 +42,12 @@ class CountTest {
         do {
             if (testCount.dec()) {
                 System.out.print(testCount.getCount() + " ");
-                System.out.println("\ncount равен 0");
+                if (count > 0) { System.out.println("\ncount равен 0"); }
+                System.out.println("\n");
                 break;
             }
             else System.out.print(testCount.getCount() + " ");
-        } while (testCount.getCount() >= 0);
+        } while (testCount.getCount() > 0);
         System.out.println("тест dec окончен");
     }
 
