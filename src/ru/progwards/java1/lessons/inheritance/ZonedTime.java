@@ -1,9 +1,6 @@
 package ru.progwards.java1.lessons.inheritance;
 
 public class ZonedTime extends Time {
-/*    int hours;
-    int minutes;
-    int seconds;    */
     TimeZone zone;
     public ZonedTime(int hours, int minutes, int seconds) {
         super(hours, minutes, seconds);
@@ -33,13 +30,13 @@ public class ZonedTime extends Time {
         }
         if (this.getTimeZone() == null) {
             seconds = this.toSeconds()
-                            - time.toSeconds() - time.getTimeZone().hours * 3600 - time.getTimeZone().minutes * 60;
+                            - time.toSeconds() + time.getTimeZone().hours * 3600 + time.getTimeZone().minutes * 60;
             if (seconds < 0) seconds = -seconds;
             return seconds;
         }
         else {
             seconds = this.toSeconds() + this.zone.hours * 3600 + this.zone.minutes * 60
-                            - time.toSeconds() - time.getTimeZone().hours * 3600 - time.getTimeZone().minutes * 60;
+                            - time.toSeconds() + time.getTimeZone().hours * 3600 + time.getTimeZone().minutes * 60;
             if (seconds < 0) seconds = -seconds;
             return seconds;
         }
@@ -47,10 +44,8 @@ public class ZonedTime extends Time {
     }
 
     public static void main(String[] args) {
-        TimeZone zone1 = new TimeZone(1);
-        TimeZone zone2 = new TimeZone(1, 0);
-        ZonedTime t = new ZonedTime(1, 10,55);
-        ZonedTime tnew = new ZonedTime(2, 10, 55, zone2);
+        ZonedTime t = new ZonedTime(4, 34,0, new TimeZone(-3, 1));
+        ZonedTime tnew = new ZonedTime(13, 32, 29);
         System.out.println(t.toString());
         System.out.println(t.toSeconds());
         System.out.println(t.secondsBetween(tnew));
