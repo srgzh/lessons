@@ -4,9 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99f3c736-2710-4be6-bade-93097fb709b2" name="Changes" comment="H16 - 4">
+    <list default="true" id="99f3c736-2710-4be6-bade-93097fb709b2" name="Changes" comment="H17 - 1">
+      <change afterPath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/inheritance/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/inheritance/Cow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/inheritance/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/inheritance/Hamster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/inheritance/TestAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/inheritance/Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/inheritance/TimeZone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/inheritance/ZonedTime.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/useclasses/Count.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/useclasses/Count.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +29,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="c57d12f0-f43f-47aa-8192-860c2d88505a" />
+        <option name="url" value="https://github.com/srgzh/lessons.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -41,6 +61,11 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.progwards.java1.lessons.inheritance" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -225,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679741494956</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="H16 - 5">
+      <created>1679742412275</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1679742412276</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -252,7 +284,9 @@
     <MESSAGE value="H16 - 2" />
     <MESSAGE value="H16 - 3" />
     <MESSAGE value="H16 - 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="H16 - 4" />
+    <MESSAGE value="H16 - 5" />
+    <MESSAGE value="H17 - 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="H17 - 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -264,10 +298,18 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ru/progwards/java1/lessons/useclasses/Count.java</url>
-          <line>56</line>
+          <line>57</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaLessons$TestAnimal.ic" NAME="TestAnimal Coverage Results" MODIFIED="1688903598915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ru.progwards.java1.lessons.inheritance.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JavaLessons$ZonedTime.ic" NAME="ZonedTime Coverage Results" MODIFIED="1695689847441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ru.progwards.java1.lessons.inheritance.*</FILTER>
+    </SUITE>
   </component>
 </project>
